@@ -4,7 +4,7 @@ The objective of this project was to build a machine learning model that predict
 
 The dataset was obtained from EllisDon's People and Culture department.
 
-I first cleaned the data using a pythong script - "Datacleaning.py".
+I first cleaned the data using a python script - "Datacleaning.py".
 
 I have built two different types of models, one using Amazon Machine Learning and another using pandas and sklearn python libraries.
 
