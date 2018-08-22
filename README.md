@@ -9,9 +9,9 @@ I first cleaned the data using a pythong script - "Datacleaning.py".
 I have built two different types of models, one using Amazon Machine Learning and another using pandas and sklearn python libraries.
 
 The evaluations from the Amazon Machine Learning model are as follows: <br> <br>
-<img src="Eval.PNG"></img>
+<img src="AmazonMLEvaluation.PNG"></img>
 <br> <br>
-<img src="Capture.PNG"></img>
+<img src="AmazonMLMetric.PNG"></img>
 
 My python model has an accuracy or approximately 82%, as shown in the console output below: <br> <br>
 <img src="PythonScriptConsoleOutput.PNG"></img>
